@@ -1,1 +1,1 @@
-# Salery-Prediction-of-Employee_Data_Science_Project
+# Salery Prediction Of Employee
